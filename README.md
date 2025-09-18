@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jus-code
 - 👀 I’m interested in him
-- 🌱 I’m currently learning c# python html css javascrpit
+- 🌱 I’m currently learning c# python html css javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in my fb acc
 - 😄 Pronouns: juswa
